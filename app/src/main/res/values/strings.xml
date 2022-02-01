@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AmanatPayCompose</string>
+    <!--Onboarding-->
+    <string name="scan_onboarding">Сканируй</string>
+    <string name="fillout_onboarding">Заполняй</string>
+    <string name="takeaway_onboarding">Забирай</string>
+    <string name="desc1_onboarding">Сканируй QR-коды “Amanat Pay” в магазине</string>
+    <string name="desc2_onboarding">Пройди скоринг и выбери срок платежа</string>
+    <string name="desc3_onboarding">Забирай товар в рассрочку без переплат и процента</string>
+</resources>
